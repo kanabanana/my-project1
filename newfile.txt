@@ -1,6 +1,10 @@
 Added completely new text, old text has been deleted and not saved
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 New updates here
+=======
+Trying stash with this update
+>>>>>>> Stashed changes
 =======
 Trying stash with this update
 >>>>>>> Stashed changes
