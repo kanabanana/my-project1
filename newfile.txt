@@ -1,4 +1,5 @@
 Added completely new text, old text has been deleted and not saved
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 New updates here
@@ -9,3 +10,6 @@ Trying stash with this update
 Trying stash with this update
 >>>>>>> Stashed changes
 Amending previous commit
+=======
+New line for testing revert
+>>>>>>> master
